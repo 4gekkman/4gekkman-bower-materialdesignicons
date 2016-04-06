@@ -1,0 +1,12 @@
+{
+    "name": "4gekkman/4gekkman-bower-sample",
+		"description": "Blueprint for creating new bower packs",
+    "license": "4gekkman@gmail.com",
+    "authors": [
+        {
+            "name": "4gekkman",
+            "email": "4gekkman@gmail.com"
+        }
+    ],
+    "require": {}
+}

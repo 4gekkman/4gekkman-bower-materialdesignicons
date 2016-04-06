@@ -1,0 +1,8 @@
+{
+  "name": "4gekkman-bower-sample",
+  "description": "Blueprint for creating new bower packs",
+  "main"  : [""],
+  "repository": {
+    "type": "git", "url": "git://github.com/4gekkman/4gekkman-bower-sample.git"
+  }
+}
