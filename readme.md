@@ -37,6 +37,7 @@
   • Добавить задачу авто-push на github в файл "GitAutoPushScripts.ps1".
   • Добавить, собственно, фронтенд-файлы в каталог.
   • Выполнить push нового пакета на github, введя: push
+  • Зайти на github и создать новый релиз с тегом "1.0.0".
   • Зарегистрировать в репозитории bower имя для нового пакета:
     ▪ Например: bower register example git://github.com/user/example.git
  
