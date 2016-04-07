@@ -4,5 +4,9 @@
   "main"  : [""],
   "repository": {
     "type": "git", "url": "git://github.com/4gekkman/4gekkman-bower-sample.git"
-  }
+  },
+  "ignore": [
+    "readme.md",
+    "composer.json"
+  ]
 }
