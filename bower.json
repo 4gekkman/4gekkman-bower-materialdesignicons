@@ -1,9 +1,9 @@
 {
-  "name": "4gekkman-bower-sample",
-  "description": "Blueprint for creating new bower packs",
+  "name": "4gekkman-bower-materialdesignicons",
+  "description": "Google's mareriad design icons (fonts only)",
   "main"  : [""],
   "repository": {
-    "type": "git", "url": "git://github.com/4gekkman/4gekkman-bower-sample.git"
+    "type": "git", "url": "git://github.com/4gekkman/4gekkman-bower-materialdesignicons.git"
   },
   "ignore": [
     "readme.md",

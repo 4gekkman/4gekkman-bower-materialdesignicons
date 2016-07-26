@@ -1,4 +1,4 @@
-# Bower-пакет - 4gekkman-bower-sample
+# Bower-пакет - 4gekkman-bower-materialdesignicons
 ---
 ## Оглавление
 
@@ -13,7 +13,7 @@
 ```
 
   > Адрес репозитория bower-пакета 4gekkman-bower-sample на github
-      https://github.com/4gekkman/4gekkman-bower-sample
+      https://github.com/4gekkman/4gekkman-bower-materialdesignicons
 
 	
 			
@@ -22,7 +22,10 @@
 ## Описание <a id="link2"></a>
 ```
 
-  • Этот bower-пакет служит шаблоном для меня при создании новых bower-пакетов.
+  • Существует bower-пакет material-design-icons.
+  • Однако, в нём огромное количество всякого мусора (а нужны то лишь веб-ширфты).
+  • Настолько огромное, что напроч вешает команду r1_checksum, которую использует C42_suf_bower_process.
+  • Поэтому я создал свой пакет, без мусора, который содержит только веб-шрифты.
  
 ```
 ## Инструкция (для меня) по созданию новых bower-пакетов <a id="link3"></a>
